@@ -4,3 +4,8 @@
 ### 广义的愿景
 ##### 人权愿景。建立起无歧义的世界范围人权机制，让人权的迭代演化变得有效和及时。举例说，1999年8月23日-27日世界性学会通过了《性权宣言》，而性权利在中国过去两年仍未被广为知晓，这就是人权机制的落后、没有与时俱进导致的问题。同样的，不再让数字货币权利问题成为下一个类似滞后20多年的性权问题。
 
+
+#### [货币职能 (https://github.com/hibabyv/future_vision/MonetaryFunction.md)](https://github.com/hibabyv/future_vision/MonetaryFunction.md)
+#### [货币制度 (https://github.com/hibabyv/future_vision/MonetarySystem.md)](https://github.com/hibabyv/future_vision/MonetarySystem.md)
+#### [货币清算体系弊端 (https://github.com/hibabyv/future_vision/CurrencyClearingIssue.md)](https://github.com/hibabyv/future_vision/CurrencyClearingIssue.md)
+
